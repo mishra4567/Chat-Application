@@ -1,3 +1,3 @@
 this is nade js chat application 
 
-try to build a i faild 
+try to build and i faild 
